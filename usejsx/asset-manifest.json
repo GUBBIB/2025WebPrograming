@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2025WebPrograming/1Week0304/usejsx/static/css/main.f855e6bc.css",
+    "main.js": "/2025WebPrograming/1Week0304/usejsx/static/js/main.108f8bee.js",
+    "static/js/453.efc008e2.chunk.js": "/2025WebPrograming/1Week0304/usejsx/static/js/453.efc008e2.chunk.js",
+    "static/media/logo.svg": "/2025WebPrograming/1Week0304/usejsx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2025WebPrograming/1Week0304/usejsx/index.html",
+    "main.f855e6bc.css.map": "/2025WebPrograming/1Week0304/usejsx/static/css/main.f855e6bc.css.map",
+    "main.108f8bee.js.map": "/2025WebPrograming/1Week0304/usejsx/static/js/main.108f8bee.js.map",
+    "453.efc008e2.chunk.js.map": "/2025WebPrograming/1Week0304/usejsx/static/js/453.efc008e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.108f8bee.js"
+  ]
+}
