@@ -6,7 +6,7 @@ function App() {
     "div",
     null,
     React.createElement("h1", null, "Hello, JSX!"),
-    React.createElement("p", null, "This is a JSX example.")
+    React.createElement("p", null, "This is a non-JSX example.")
   );
 }
 
