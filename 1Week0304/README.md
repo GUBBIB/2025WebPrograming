@@ -14,6 +14,8 @@
 
 ## React
 ### npm & npx
+- **npm(Node Package Manager)** 는 ``Node.js 패키지``를 관리하는 패키지 매니저이다.
+- **npx(Node Package Execute)** 는 ``npm 패키지``를 실행하는 도구이며 패키지 설치 없이 바로 실행이 가능하다.
 
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
