@@ -16,6 +16,7 @@
 ### npm & npx
 - **npm(Node Package Manager)** 는 ``Node.js 패키지``를 관리하는 패키지 매니저이다.
 - **npx(Node Package Execute)** 는 ``npm 패키지``를 실행하는 도구이며 패키지 설치 없이 바로 실행이 가능하다.
+
 ※ npm은 패키지 관리용, npx는 패키지 실행용
 
 ## 참고
