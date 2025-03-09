@@ -1,6 +1,6 @@
 # 1주차 수업내용
 
-## MPA & SPA
+## MPA와 SPA
 **MPA(Multi-Page App Lifecycle)** 는 여러 개의 Page로 구성된 App이라는 뜻이고 **SPA(Single-Page App Lifecycle)** 는 한 개의 Page로 구성된 App이라는 뜻이다.
 
 ``MPA방식``은 새로운 페이지를 요청할 때마다 필요없는 요소까지 모두 다운해서 페이지를 갱신한다.<br>
@@ -13,11 +13,14 @@
 다만 **SEO**가 크롤링할 컨텐츠가 존재하지 않아 **SEO** 관점에서 불리하며 보안 이슈가 있다.
 
 ## React
-### npm & npx
+### npm과 npx
 - **npm(Node Package Manager)** 는 ``Node.js 패키지``를 관리하는 패키지 매니저이다.
 - **npx(Node Package Execute)** 는 ``npm 패키지``를 실행하는 도구이며 패키지 설치 없이 바로 실행이 가능하다.
 
 ※ npm은 패키지 관리용, npx는 패키지 실행용
+
+### Vite와 CRA
+
 
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
