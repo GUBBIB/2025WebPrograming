@@ -1,4 +1,4 @@
-# 0304 1주차 수업내용
+# 1주차 수업내용
 
 ## MPA & SPA
 **MPA(Multi-Page App Lifecycle)** 는 여러 개의 Page로 구성된 App이라는 뜻이고 **SPA(Single-Page App Lifecycle)** 는 한 개의 Page로 구성된 App이라는 뜻이다.
@@ -11,3 +11,9 @@
 다만 불필요한 요소까지 중복해서 로딩을 하기 때문에 성능면에서 좋지 않다.
 - ``SPA의 장점``은 필요한 요소만 로딩을 하기 때문에 성능면에서 좋고 전체 페이지가 갱신되는것이 아니기에 화면의 깜빡거림이 없어 사용자의 경험이 좋다.
 다만 **SEO**가 크롤링할 컨텐츠가 존재하지 않아 **SEO** 관점에서 불리하며 보안 이슈가 있다.
+
+## React
+### npm & npx
+
+## 참고
+- [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
