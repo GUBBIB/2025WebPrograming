@@ -20,12 +20,12 @@
 ※ npm은 패키지 관리용, npx는 패키지 실행용
 
 ### CRA(Create React App)와 Vite
-- CRA는 Webpack을 사용해서 React를 실행하는 번들러이다.
-- Vite는 Webpack보다 빠른 개발 서버와 빌드 속도를 제공하며 다양한 프레임워크를 지원해준다.
+- **CRA** 는 **Webpack** 을 사용해서 React를 실행하는 **번들러** 이다.
+- **Vite** 는 Webpack보다 **빠른 개발 서버** 와 **빌드 속도** 를 제공하며 다양한 프레임워크를 지원해준다.
 
 ### JSX
-- JSX(JavaScript XML)는 HTML과 JavaScrikpt를 결합한 문법이며 React 요소를 생성하는데 사용이 된다.
-- JSX는 React에서 UI를 선언적으로 작성할 수 있도록 도와주는 문법이며 컴포넌트 기반 개발을 쉽게 할수 있도록 도와준다.
+- **JSX(JavaScript XML)** 는 HTML과 JavaScrikpt를 결합한 문법이며 React 요소를 생성하는데 사용이 된다.
+- JSX는 React에서 **UI를 선언적으로 작성할 수 있도록 도와주는 문법** 이며 **컴포넌트 기반 개발을 쉽게** 할수 있도록 도와준다.
 
 ```
 # JSX 사용 코드
