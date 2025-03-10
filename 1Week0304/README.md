@@ -25,7 +25,7 @@
 
 ### JSX
 - **JSX(JavaScript XML)** 는 ``HTML과 JavaScrikpt를 결합한 문법``이며 React 요소를 생성하는데 사용이 된다.
-- JSX는 React에서 ``UI를 선언적으로 작성할 수 있도록 도와주는 문법`` 이며 ``컴포넌트 기반 개발을 쉽게`` 할수 있도록 도와준다.
+- JSX는 **React** 에서 ``UI를 선언적으로 작성할 수 있도록 도와주는 문법`` 이며 ``컴포넌트 기반 개발을 쉽게`` 할수 있도록 도와준다.
 
 ```
 # JSX 사용 코드
@@ -62,6 +62,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(
 ### JSX의 장점 5가지
 
 **1. 가독성이 좋고 직관적임**
+
 2. 코드가 간결하고 유지보수가 쉬움
 3. 자바스크립트와 자연스럽게 결합 가능
 4. 조건부 렌더링이 쉬움
