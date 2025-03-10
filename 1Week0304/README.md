@@ -42,5 +42,20 @@ function App() {
 ReactDOM.createRoot(document.getElementById("root")).render(<App />);
 ```
 
+```
+# JSX 미사용 코드
+import React from "react";
+import ReactDOM from "react-dom";
+function App() {
+    return React.createElement(
+    "div",
+    null,
+    React.createElement("h1", null, "Hello, JSX!"),
+    React.createElement("p", null, "This is a JSX example.")
+    );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(App));
+```
+
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
