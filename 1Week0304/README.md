@@ -57,5 +57,11 @@ function App() {
 ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(App));
 ```
 
+위에 예시를 보면 알 수 있듯이 JSX를 사용하는 것이 필수는 아니지만 JSX를 사용하면 훨신 수월하게 개발이 가능해진다.
+
+### JSX의 장점 5가지
+
+1. 가독성이 좋고 직관적임
+
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
