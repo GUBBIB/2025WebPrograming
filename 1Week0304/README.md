@@ -19,8 +19,30 @@
 
 ※ npm은 패키지 관리용, npx는 패키지 실행용
 
-### Vite와 CRA
+### CRA(Create React App)와 Vite
+- CRA는 Webpack을 사용해서 React를 실행하는 번들러이다.
+- Vite는 Webpack보다 빠른 개발 서버와 빌드 속도를 제공하며 다양한 프레임워크를 지원해준다.
 
+### JSX
+- JSX(JavaScript XML)는 HTML과 JavaScrikpt를 결합한 문법이며 React 요소를 생성하는데 사용이 된다.
+- JSX는 React에서 UI를 선언적으로 작성할 수 있도록 도와주는 문법이며 컴포넌트 기반 개발을 쉽게 할수 있도록 도와준다.
+
+<pre>
+<code>
+# JSX 사용 코드
+import React from "react";
+import ReactDOM from "react-dom";
+function App() {
+    return (
+    <div>
+        <h1>Hello, JSX!</h1>
+        <p>This is a JSX example.</p>
+    </div>
+    );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</code>
+</pre>
 
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
