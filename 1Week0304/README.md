@@ -62,6 +62,10 @@ ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(
 ### JSX의 장점 5가지
 
 1. 가독성이 좋고 직관적임
+2. 코드가 간결하고 유지보수가 쉬움
+3. 자바스크립트와 자연스럽게 결합 가능
+4. 조건부 렌더링이 쉬움
+5. 스타일 및 이벤트 핸들링이 쉬움
 
 ## 참고
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
