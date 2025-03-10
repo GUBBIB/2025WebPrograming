@@ -28,18 +28,18 @@
 - JSX는 React에서 UI를 선언적으로 작성할 수 있도록 도와주는 문법이며 컴포넌트 기반 개발을 쉽게 할수 있도록 도와준다.
 
 ```
-    # JSX 사용 코드
-    import React from "react";
-    import ReactDOM from "react-dom";
-    function App() {
-        return (
-        <div>
-            <h1>Hello, JSX!</h1>
-            <p>This is a JSX example.</p>
-        </div>
-        );
-    }
-    ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+# JSX 사용 코드
+import React from "react";
+import ReactDOM from "react-dom";
+function App() {
+    return (
+    <div>
+        <h1>Hello, JSX!</h1>
+        <p>This is a JSX example.</p>
+    </div>
+    );
+}
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
 ```
 
 ## 참고
