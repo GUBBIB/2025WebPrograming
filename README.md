@@ -11,5 +11,5 @@
 - [1. JSX 사용해보기 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/react-app-ex01/)
 - [2. 강의자료 2024 버튼 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/my-app/)
 - [3. React 정적페이지](https://gubbib.github.io/2025WebPrograming/2Week0311/my-app/crud.html)
-- [4. SPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/2Week0311/SpaExample/index.html)
-- [5. MPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/2Week0311/MpaExample/index.html)
+- [4. SPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/SpaExample/index.html)
+- [5. MPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/MpaExample/index.html)
