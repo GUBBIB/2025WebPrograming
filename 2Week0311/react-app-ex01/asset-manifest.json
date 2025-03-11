@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2025WebPrograming/2Week0311/react-app-ex01/static/css/main.e6c13ad2.css",
+    "main.js": "/2025WebPrograming/2Week0311/react-app-ex01/static/js/main.f151479f.js",
+    "static/js/453.122e2aba.chunk.js": "/2025WebPrograming/2Week0311/react-app-ex01/static/js/453.122e2aba.chunk.js",
+    "index.html": "/2025WebPrograming/2Week0311/react-app-ex01/index.html",
+    "main.e6c13ad2.css.map": "/2025WebPrograming/2Week0311/react-app-ex01/static/css/main.e6c13ad2.css.map",
+    "main.f151479f.js.map": "/2025WebPrograming/2Week0311/react-app-ex01/static/js/main.f151479f.js.map",
+    "453.122e2aba.chunk.js.map": "/2025WebPrograming/2Week0311/react-app-ex01/static/js/453.122e2aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f151479f.js"
+  ]
+}
