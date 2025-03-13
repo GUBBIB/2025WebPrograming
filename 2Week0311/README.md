@@ -19,7 +19,7 @@
 
 ||전역(Global)설치|로컬(Local)설치|
 |--|---------------|--------------|
-|React 생성|create-react-app my-app|npx create-react-app my-app|
+|React 생성|**create-react-app my-app**|**npx create-react-app my-app**|
 
 ## 참고
 - [마크업(MarkUp)과 마크다운(MarkDown) 이란?](https://tlsdnjs12.tistory.com/32)
