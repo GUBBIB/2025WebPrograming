@@ -12,12 +12,18 @@
 **Emmet** 은 개발자가 코드를 더 **빠르고** **효율적** 으로 작성할 수 있도록 해주는 ``에디터 확장기능``이다.<br>
 예를 들어 웹 페이지의 **전체 HTML 구조**를 입력하는 대신 ``html>head>title+body``와 같이 작성하고 ``Tab키`` 또는 ``엔터``를 누르면 자동완성이 된다.
 
+## npm install create-react-app -g 
+``npm install create-react-app -g`` 명령어로 설치를 하면 ``-g`` 옵션 때문에 **전역(Gloabl)** 로 설치가 된다.<br>
+**전역설치** 와 **로컬설치** 의 차이점은 React 파일 생성에 큰 차이점이 있다.
+||전역(Global)설치|로컬(Local)설치|
+||---------------|--------------|
+|React 생성|create-react-app my-app|npx create-react-app my-app|
+
 ## 참고
 - [마크업(MarkUp)과 마크다운(MarkDown) 이란?](https://tlsdnjs12.tistory.com/32)
+- [ChatGPT](https://chatgpt.com/)
 <!-- 
 자바스크립트로만 자기 소개 페이지 완성 
-Emmet 뭔지
-geeksforgeeks - HTML 튜토리얼 확인해보기
 npm install create-react-app -g 설명
 JSX 사용법
 JSX 속성 주는 법, 객체 사용
