@@ -14,19 +14,24 @@
 
 ## npm install create-react-app -g 
 ``npm install create-react-app -g`` 명령어로 설치를 하면 ``-g`` 옵션 때문에 **전역(Gloabl)** 로 설치가 된다.<br>
-**전역설치** 와 **로컬설치** 의 차이점은 React 파일 생성에 큰 차이점이 있다.<br>
+**전역설치** 와 **로컬설치** 의 차이점은 명령어 실행 방식이다.<br>
 
 
 ||전역(Global)설치|로컬(Local)설치|
 |--|---------------|--------------|
 |React 생성|**create-react-app my-app**|**npx create-react-app my-app**|
 
+### -g 옵션의 문제점
+1. 업데이트 관리가 번거로움
+2. 프로젝트별 버전 차이 문제
+
+
+
 ## 참고
 - [마크업(MarkUp)과 마크다운(MarkDown) 이란?](https://tlsdnjs12.tistory.com/32)
-- [ChatGPT](https://chatgpt.com/)
+- [ChatGPT](https://chatgpt.com/share/67d2d99b-9c88-8012-852f-8b30cf760648)
 <!-- 
 자바스크립트로만 자기 소개 페이지 완성 
-npm install create-react-app -g 설명
 JSX 사용법
 JSX 속성 주는 법, 객체 사용
 JSX는 IF 없음 && || 사용해서 참 거짓 구분 
