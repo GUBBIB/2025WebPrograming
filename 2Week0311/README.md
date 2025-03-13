@@ -16,6 +16,7 @@
 ``npm install create-react-app -g`` 명령어로 설치를 하면 ``-g`` 옵션 때문에 **전역(Gloabl)** 로 설치가 된다.<br>
 **전역설치** 와 **로컬설치** 의 차이점은 React 파일 생성에 큰 차이점이 있다.<br>
 
+
 ||전역(Global)설치|로컬(Local)설치|
 ||---------------|--------------|
 |React 생성|create-react-app my-app|npx create-react-app my-app|
