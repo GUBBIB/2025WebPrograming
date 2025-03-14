@@ -13,3 +13,5 @@
 - [3. React 정적페이지](https://gubbib.github.io/2025WebPrograming/2Week0311/my-app/crud.html)
 - [4. SPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/SpaExample/index.html)
 - [5. MPA 예제](https://gubbib.github.io/2025WebPrograming/2Week0311/MpaExample/index.html)
+- [6. 자기 소개](https://gubbib.github.io/2025WebPrograming/2Week0311/my-introduce/)
+- [7. 자기소개(자바스크립트로만)](https://gubbib.github.io/2025WebPrograming/2Week0311/my-introduce/my-introduce.html)
