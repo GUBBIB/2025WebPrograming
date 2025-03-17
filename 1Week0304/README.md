@@ -1,5 +1,8 @@
 # 1주차 수업내용
 
+- MPA와 SPA
+- React
+
 ## MPA와 SPA
 **MPA(Multi-Page App Lifecycle)** 는 여러 개의 Page로 구성된 App이라는 뜻이고 **SPA(Single-Page App Lifecycle)** 는 한 개의 Page로 구성된 App이라는 뜻이다.
 
@@ -27,7 +30,7 @@
 - **JSX(JavaScript XML)** 는 ``HTML과 JavaScrikpt를 결합한 문법``이며 React 요소를 생성하는데 사용이 된다.
 - JSX는 **React** 에서 ``UI를 선언적으로 작성할 수 있도록 도와주는 문법`` 이며 ``컴포넌트 기반 개발을 쉽게`` 할수 있도록 도와준다.
 
-```
+```javascript
 # JSX 사용 코드
 import React from "react";
 import ReactDOM from "react-dom";
@@ -42,7 +45,7 @@ function App() {
 ReactDOM.createRoot(document.getElementById("root")).render(<App />);
 ```
 
-```
+```javascript
 # JSX 미사용 코드
 import React from "react";
 import ReactDOM from "react-dom";
