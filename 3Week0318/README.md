@@ -6,7 +6,13 @@
     - 엘리먼트의 구성요소
 
 ## DOM과 Virtual DOM
-- DOM(**D**ocument **O**bject **M**odel)
+### DOM 이란?
+**DOM(Document Object Model)** 은 웹페이지의 구조를 트리 형태로 표현한 것이다.<br>
+HTML을 **자바스크립트**가 **이해할 수 있도록** ``객체(Object)``로 변환한 것이며 **DOM을 조작**해서 웹페이지를 **동적**으로 변경할 수 있다.
+
+### Virtual DOM 이란?
+**Virtual DOM(Virtual Document Object Model)** 은 실제 DOM을 **직접 변경하지 않고**, 메모리에서 **가상의 DOM**을 만들어 변경사항을 비교한 후, **필요한 부분만** 실제 DOM에 **렌더링** 하는 방식이다.
+
 
 ## 엘리먼트(Elements)
 ### 엘리먼트(Elements) 란?
