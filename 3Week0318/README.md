@@ -12,6 +12,36 @@
 ### 엘리먼트의 구성요소
 - **리액트 엘리먼트(React Elements)** 는 자바스크립트 ``객체`` 형태로 존재한다.
 
+|||
+|--|--|
+|type|태그의 이름|
+|props|속성들|
+|children|렌더링 된 자식 태그|
+
+```html
+<!-- 예시 -->
+<button class='bg-green'>
+    <b>
+        Hello, element!
+    </b>
+</button>
+```
+```javascript
+// 렌더링된 DOM 엘리먼트
+{
+    type: 'button',
+    props: {
+        className: 'bg-green',
+        children: {
+            type: 'b',
+            props: {
+                children: 'Hello, element!'
+            }
+        }
+    }
+}
+```
+
 <!-- 
 - 김경민/엘리먼트 렌더링
 - 2024/Web Programing 03
