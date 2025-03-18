@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2025WebPrograming/3Week0318/binary-clock/static/css/main.e6c13ad2.css",
+    "main.js": "/2025WebPrograming/3Week0318/binary-clock/static/js/main.79292f16.js",
+    "static/js/453.d8665695.chunk.js": "/2025WebPrograming/3Week0318/binary-clock/static/js/453.d8665695.chunk.js",
+    "index.html": "/2025WebPrograming/3Week0318/binary-clock/index.html",
+    "main.e6c13ad2.css.map": "/2025WebPrograming/3Week0318/binary-clock/static/css/main.e6c13ad2.css.map",
+    "main.79292f16.js.map": "/2025WebPrograming/3Week0318/binary-clock/static/js/main.79292f16.js.map",
+    "453.d8665695.chunk.js.map": "/2025WebPrograming/3Week0318/binary-clock/static/js/453.d8665695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79292f16.js"
+  ]
+}
