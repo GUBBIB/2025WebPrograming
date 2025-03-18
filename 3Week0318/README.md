@@ -1,10 +1,15 @@
 # 3주차 수업내용
 ### 목차
-- 엘리먼트(Elements) 란?
+- 엘리먼트?
+    - 엘
 
-## 엘리먼트(Elements) 란?
+## 엘리먼트(Elements)
+### 엘리먼트(Elements) 란?
 - **엘리먼트** 란 리액트 앱을 구성하는 **가장 작은 블**록 즉, ``태그``를 말한다.<br>
 - ``시작 태그``와 ``끝 태그``가 있는 **모든 것** 은 HTML 엘리먼트로 본다.
+
+### 엘리먼트의 구성요소
+- **리액트 엘리먼트(React Elements)** 는 자바스크립트 ``객체`` 형태로 존재한다.
 
 <!-- 
 - 김경민/엘리먼트 렌더링
@@ -12,24 +17,20 @@
 - 김경민/컴포넌트와 Props
 - 강의자료/04React_Component
 
-전체를 바꾸지 않는 기법 - SPA, ajax
-
-엘리멘트 - 태그와 컴포넌트 합한건데? 객체 형태로 구성돼 있다
-ㄴ 시작 태그와 끝 태그가 있으면 엘리멘트로 본다 
-ㄴ ( The HTML element is everything from the start tag to the end tag )
-
-자바스크립트의 객체는 키 벨류 의 쌍
-[ key : value ]
-
-버츄얼 DOM = 리액트 엘리멘트로 
-브라우저 DOM = DOM 엘리멘트로 
-
 리엑트 엘리멘트 = type과 props 필드로 구성된 객체로 정의됨
 type = html 태그의 이름
 props  = 그 외 속성들
 자식 = children 사용
 자식이란 
 div>b 에서 b 같은 것들
+
+전체를 바꾸지 않는 기법 - SPA, ajax
+
+자바스크립트의 객체는 키 벨류 의 쌍
+[ key : value ]
+
+버츄얼 DOM = 리액트 엘리멘트로 
+브라우저 DOM = DOM 엘리멘트로 
 
 programing03에 바이너리 시계 
 
