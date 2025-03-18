@@ -18,6 +18,6 @@
 
 ## [3주차 0318](https://github.com/GUBBIB/2025WebPrograming/tree/main/3Week0318)
 
-- [1. 예제 시계 - 컴포넌트 사용](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock)
-- [2. React Dom 렌더링 - 예제 시계](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock/clock1.html)
-- [3. React Dom 렌더링 - 예제 바이너리 시계](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock/clock2.html)
+- [1. 엘리먼트 불변성 예제 시계 - 컴포넌트 사용](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock)
+- [2. React Dom 렌더링 - 엘리먼트 불변성 예제 시계](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock/clock1.html)
+- [3. React Dom 렌더링 - 엘리먼트 불변성 예제 바이너리 시계](https://gubbib.github.io/2025WebPrograming/3Week0318/binary-clock/clock2.html)

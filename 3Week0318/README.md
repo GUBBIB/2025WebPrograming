@@ -1,8 +1,12 @@
 # 3주차 수업내용
 ### 목차
+- DOM 과 Virtual DOM
 - 엘리먼트?
     - 엘리먼트(Elements) 란?
     - 엘리먼트의 구성요소
+
+## DOM과 Virtual DOM
+- DOM(**D**ocument **O**bject **M**odel)
 
 ## 엘리먼트(Elements)
 ### 엘리먼트(Elements) 란?
@@ -49,6 +53,9 @@
 바꾸기 위해서는 **새로운 엘리먼트를 만들어** 기존의 엘리먼트와 **변경** 하고 **해당 부분만 다시 렌더링** 해야한다.
 
 
+## 참고
+- [DOM vs Virtual DOM](https://velog.io/@ye-ji/DOM-vs-Virtual-DOM)
+
 <!-- 
 - 김경민/엘리먼트 렌더링
 - 2024/Web Programing 03
@@ -73,7 +80,4 @@ programing03에 바이너리 시계
 - 컴포넌트 합성, 추출
 - Component Extraction 3개 해보기
 - 댓글 컴포넌트 만들어보기
-
-
-binary-clock - clock1, clock2 확인
 -->
