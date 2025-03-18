@@ -13,7 +13,7 @@ HTML을 **자바스크립트**가 **이해할 수 있도록** ``객체(Object)``
 ### Virtual DOM 이란?
 **Virtual DOM(Virtual Document Object Model)** 은 실제 DOM을 **직접 변경하지 않고**, 메모리에서 **가상의 DOM**을 만들어 변경사항을 비교한 후, **필요한 부분만** 실제 DOM에 **렌더링** 하는 방식이다.
 
-※ **React Elements** 는 **Virtual DOM을 생성** 하고 **변경된 Virtual DOM** 은 **실제 DOM** 에 반영되어 브라우저에 ``렌더링``된다.
+**※** **React Elements** 는 **Virtual DOM을 생성** 하고 **변경된 Virtual DOM** 은 **실제 DOM** 에 반영되어 브라우저에 ``렌더링``된다.
 
 ## 엘리먼트(Elements)
 ### 엘리먼트(Elements) 란?
