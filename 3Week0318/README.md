@@ -94,6 +94,28 @@ console.log(add(2, 3));
 
 <!-- ## 구분 줄 -->
 
+## 컴포넌트
+### 컴포넌트 종류
+- 함수형 컴포넌트
+```javascript
+function Welcom(props){
+    return <h1>안녕, {props.name}</h1>;
+}
+```
+
+- 클래스형 컴포넌트
+```javascript
+class Welcom extends React Component {
+    render() {
+        return <h1>안녕, {this.props.name}</h1>;
+    }
+}
+```
+
+
+
+
+
 ## 참고
 - [DOM vs Virtual DOM](https://velog.io/@ye-ji/DOM-vs-Virtual-DOM)
 - [[JavaScript] Pure Function(순수 함수)](https://velog.io/@nittre/JavaScriptFunction-Composition-Series-1.-Pure-Function)
