@@ -102,6 +102,7 @@ function Welcom(props){
     return <h1>안녕, {props.name}</h1>;
 }
 ```
+※ **메소드의 이름** 이 ``대문자``로 시작하는 이유는 ``컴포넌트`` 임을 알리기 위해서이다.
 
 - 클래스형 컴포넌트
 ```javascript
@@ -112,23 +113,62 @@ class Welcom extends React Component {
 }
 ```
 
+※ 과거에는 함수형 컴포넌트보다 많은 기능을 제공했지만, **현재** 는 ``함수형 컴포넌트``와 ``Hooks``로 대부분의 기능을 대체할 수 있다.<br>
+레거시 코드나 특수한 경우에 사용될 수 있다.
 
+### 컴포넌트 합성
+- 여러개의 컴포넌트를 하나의 컴포넌트에 넣어서 합치는 것이다.
+```javascript
+function Welcom(props){
+    return <h1>Hello, {props.name}</h1>;
+}
 
+function App(props){
+    return (
+        <div>
+            <Welcom name="Mike" />
+            <Welcom name="Steve" />
+            <Welcom name="Jane" />
+        </div>
+    )
+}
 
+const root = ReactDom.createRoot(document.getElementById('root'));
+root.rendor(<App />);
+
+// 이런식으로 생김
+┌ㅡㅡㅡㅡ App ㅡㅡㅡㅡ┐;
+<Welcom name="Mike" />
+<Welcom name="Steve" />
+<Welcom name="Jane" />
+└ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ┘
+```
+
+### 컴포넌트 추출
+```javascript
+function Comment(props){
+    return (
+        <div className="comment">
+            <div className="user-info">
+                <Avatar user={props.author} />
+                <div className="user-info-name">
+                    {props.author.name}
+                </div>
+            </div>
+
+            <div className="comment-text">
+                {props.text}
+            </div>
+
+            <div classNmae="comment-date">
+                {formatDate(props.date)}
+            </div>
+        </div>
+    );
+}
+```
+- 이런 1개의 큰 컴포넌트가 있을 때, ``Comment``, ``Userinfo``, ``Avatar`` 컴포넌트 3개로 **나눠서** 사용하는게 **재사용**에 더 용이하다.
 
 ## 참고
 - [DOM vs Virtual DOM](https://velog.io/@ye-ji/DOM-vs-Virtual-DOM)
 - [[JavaScript] Pure Function(순수 함수)](https://velog.io/@nittre/JavaScriptFunction-Composition-Series-1.-Pure-Function)
-
-<!-- 
-자바스크립트의 객체는 키 벨류 의 쌍
-[ key : value ]
-
-- 함수형 컴포넌트, 클래스형 컴포넌트 (김경민/컴포넌트와 props 에서 컴포넌트 만들기 참고)
-ㄴ 일반 함수가 아님을 알리기 위해, 컴포넌트 임을 알리기위해 이름을 대문자로 시작한다
-ㄴ 클래스형은 거의 안 쓴다
-ㄴ Hook 을 사용함으로써 클래스형 컴포넌트는 사용하지 않는다
-- 컴포넌트 합성, 추출
-- Component Extraction 3개 해보기
-- 댓글 컴포넌트 만들어보기
--->
