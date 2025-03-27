@@ -1,13 +1,29 @@
-import Navigator from "./Component/Navigator/navigator"
+import Header from "./Component/Header/header"
 import Footer from "./Component/Footer/footer";
+import Detail from "./Component/Detail/detail"
+import Comment from "./Component/Comment/CommentList";
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Navigator />
+      <nav>
+        <Header />
+      </nav>
 
-      <Footer />
+      <div id="main">
+        <div id="detail">
+          <Detail />
+        </div>
+
+        <div id="comment">
+          <Comment />
+        </div>
+      </div>
+
+      <div id="footer">
+        <Footer />
+      </div>
     </div>
   );
 }
