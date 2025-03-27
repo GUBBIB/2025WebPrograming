@@ -37,12 +37,6 @@ this.setState({
 **※리액트 컴포넌트는 ``탄생(Mount)`` -> ``변화(Update)`` -> ``제거(Unmount)`` 의 과정을 반드시 거친다.**
 
 <!--
-
-ppt 
-- 김경민 state와 생명주기
-- 05React_StateLifeCyle
-생명주기에 대해서(Mount -> Update -> Unmount)
-
 Report - (report-react-app)
 웹사이트를 5개 이상의 컴포넌트로 구성하세요
 2개 이상의 props를 전달하는 컴포넌트를 하나 이상 포함하세요
