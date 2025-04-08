@@ -24,4 +24,8 @@ initialValue: 상태의 초기 값
 동기화 개념잡기
 sync, block, non block sync, block sync
 
+array destructuring
+
+레포트 웹 만드는데 (페이지 상관 X) 누군가에게 도움이 되는 웹 페이지
+ㄴ 홍보성, 공부 등
 -->
