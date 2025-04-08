@@ -1,9 +1,13 @@
-import Counter from "./Component/Counter"
+import Counter from "./Component/Counter";
+import Area from "./Component/Area";
 import './App.css';
 
 function App() {
   return (
-    <Counter />
+    <div>
+      <Counter />
+      <Area />
+    </div>
   );
 }
 
