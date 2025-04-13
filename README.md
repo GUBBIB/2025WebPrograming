@@ -32,3 +32,7 @@
 ## [5주차 0401](https://github.com/GUBBIB/2025WebPrograming/tree/main/5Week0401)
 
 - [AI 사용 리액트 페이지](https://gubbib.github.io/2025WebPrograming/5Week0401/ai-report-react-app/index.html)
+
+## [6주차 0408](https://github.com/GUBBIB/2025WebPrograming/tree/main/6Week0408)
+- [test](https://gubbib.github.io/2025WebPrograming/6Week0408/test)
+- [a](https://gubbib.github.io/2025WebPrograming/6Week0408/report-my-app)
