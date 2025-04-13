@@ -34,5 +34,5 @@
 - [AI 사용 리액트 페이지](https://gubbib.github.io/2025WebPrograming/5Week0401/ai-report-react-app/index.html)
 
 ## [6주차 0408](https://github.com/GUBBIB/2025WebPrograming/tree/main/6Week0408)
-- [test](https://gubbib.github.io/2025WebPrograming/6Week0408/test)
-- [a](https://gubbib.github.io/2025WebPrograming/6Week0408/report-my-app)
+- [1. state와 일반 변수의 차이점](https://gubbib.github.io/2025WebPrograming/6Week0408/test)
+- [2. 리액트 페이지](https://gubbib.github.io/2025WebPrograming/6Week0408/report-my-app)
