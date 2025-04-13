@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2025WebPrograming/6Week0408/report-my-app/static/css/main.f855e6bc.css",
+    "main.js": "/2025WebPrograming/6Week0408/report-my-app/static/js/main.36d1674e.js",
+    "static/js/453.660bf8a8.chunk.js": "/2025WebPrograming/6Week0408/report-my-app/static/js/453.660bf8a8.chunk.js",
+    "index.html": "/2025WebPrograming/6Week0408/report-my-app/index.html",
+    "main.f855e6bc.css.map": "/2025WebPrograming/6Week0408/report-my-app/static/css/main.f855e6bc.css.map",
+    "main.36d1674e.js.map": "/2025WebPrograming/6Week0408/report-my-app/static/js/main.36d1674e.js.map",
+    "453.660bf8a8.chunk.js.map": "/2025WebPrograming/6Week0408/report-my-app/static/js/453.660bf8a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.36d1674e.js"
+  ]
+}
