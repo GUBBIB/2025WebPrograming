@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2025WebPrograming/6Week0408/test/static/css/main.f855e6bc.css",
+    "main.js": "/2025WebPrograming/6Week0408/test/static/js/main.ded98d23.js",
+    "static/js/453.56f46472.chunk.js": "/2025WebPrograming/6Week0408/test/static/js/453.56f46472.chunk.js",
+    "index.html": "/2025WebPrograming/6Week0408/test/index.html",
+    "main.f855e6bc.css.map": "/2025WebPrograming/6Week0408/test/static/css/main.f855e6bc.css.map",
+    "main.ded98d23.js.map": "/2025WebPrograming/6Week0408/test/static/js/main.ded98d23.js.map",
+    "453.56f46472.chunk.js.map": "/2025WebPrograming/6Week0408/test/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ded98d23.js"
+  ]
+}
