@@ -42,9 +42,16 @@
 - [1. Hook 예제들](https://GUBBIB.github.io/2025WebPrograming/7Week0415/ex1-react-app)
 
 <!--
+-- 팀 과제 --
 1. 서버 구축 :
-    IIS, Apache, nginx
-2. 웹 페이지
-3. 회원관리
+    IIS, Apache, nginx, Tomat, Flask, express
+ㄴ Python - Django - Flask 해봐야지 << 인원 때문에 못할 수도있음
+
+2. 웹 페이지 :
+    SPA, MPA, Hook의 내용도 들어가야 함
+
+3. 회원관리 :
+    DB 연동 할건데 
+
 4. 게시판
 -->
