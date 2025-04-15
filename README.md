@@ -40,3 +40,10 @@
 ## [7주차 0415]()
 
 - [1. Hook 예제들](https://GUBBIB.github.io/2025WebPrograming/7Week0415/ex1-react-app)
+
+<!--
+1. 서버 구축 - 
+2. 웹 페이지
+3. 회원관리
+4. 게시판
+-->
