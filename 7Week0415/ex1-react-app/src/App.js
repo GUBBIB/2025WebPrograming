@@ -15,6 +15,11 @@ import FetchData from "./JSXFolder/FetchData"
 // 렌더링 마다, stats 값 변경 마다
 import Accommodate from "./JSXFolder/Accommodate"
 
+//
+import UseMemo1 from "./JSXFolder/UseMemo1"
+import MemoUseCallback from "./JSXFolder/MemoUseCallback"
+import TextInputWithFocusButton from "./JSXFolder/TextInputWithFocusButton"
+
 import './App.css';
 
 function App() {
@@ -35,6 +40,12 @@ function App() {
       <FetchData />
       <hr></hr>
       <Accommodate />
+      <hr></hr>
+      <UseMemo1 />
+      <hr></hr>
+      <MemoUseCallback />
+      <hr></hr>
+      <TextInputWithFocusButton />
     </div>
   );
 }
