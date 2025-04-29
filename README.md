@@ -41,6 +41,9 @@
 
 - [1. Hook 예제들](https://GUBBIB.github.io/2025WebPrograming/7Week0415/ex1-react-app)
 
+## 8주차 0422
+- 중간 시험
+
 <!--
 -- 팀 과제 --
 1. 서버 구축 :
