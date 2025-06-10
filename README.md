@@ -47,6 +47,8 @@
 - [1. 이벤트 핸들링](https://gubbib.github.io/2025WebPrograming/9Week0429/my-app)
 
 ## [10주차 0506](https://github.com/GUBBIB/2025WebPrograming/tree/main/10Week0506)
+- [1. 이벤트 핸들링](https://gubbib.github.io/2025WebPrograming/9Week0429/my-app)
+<!-- 전주와 수업 내용이 같아서 주소가 같습니다 -->
 
 ## [11주차 0513](https://github.com/GUBBIB/2025WebPrograming/tree/main/11Week0513)
 
