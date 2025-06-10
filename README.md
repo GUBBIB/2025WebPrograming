@@ -51,9 +51,10 @@
 <!-- 전 주와 수업 내용이 같아서 주소가 같습니다 -->
 
 ## [11주차 0513](https://github.com/GUBBIB/2025WebPrograming/tree/main/11Week0513)
-- [1. ](https://gubbib.github.io/2025WebPrograming/11Week0513/my-app/)
+- [1. List와 key](https://gubbib.github.io/2025WebPrograming/11Week0513/my-app/)
 
 ## [12주차 0520](https://github.com/GUBBIB/2025WebPrograming/tree/main/12Week0520)
+- [1. ](https://gubbib.github.io/2025WebPrograming/12Week0520/test/)
 
 ## [13주차 0527](https://github.com/GUBBIB/2025WebPrograming/tree/main/13Week0527)
 
