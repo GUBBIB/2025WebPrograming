@@ -38,19 +38,19 @@
 - [2. 리액트 페이지](https://gubbib.github.io/2025WebPrograming/6Week0408/report-my-app)
 
 ## [7주차 0415](https://github.com/GUBBIB/2025WebPrograming/tree/main/7Week0415)
-
 - [1. Hook 예제들](https://GUBBIB.github.io/2025WebPrograming/7Week0415/ex1-react-app)
 
 ## 8주차 0422
 - 중간 시험
 
-## [9주차 0502](https://github.com/GUBBIB/2025WebPrograming/tree/main/9Week0502)
+## [9주차 0429](https://github.com/GUBBIB/2025WebPrograming/tree/main/9Week0429)
+- 
 
-## [10주차 0509](https://github.com/GUBBIB/2025WebPrograming/tree/main/10Week0509)
+## [10주차 0506](https://github.com/GUBBIB/2025WebPrograming/tree/main/10Week0506)
 
-## [11주차 0516](https://github.com/GUBBIB/2025WebPrograming/tree/main/11Week0516)
+## [11주차 0513](https://github.com/GUBBIB/2025WebPrograming/tree/main/11Week0513)
 
-## [12주차 0523](https://github.com/GUBBIB/2025WebPrograming/tree/main/12Week0523)
+## [12주차 0520](https://github.com/GUBBIB/2025WebPrograming/tree/main/12Week0520)
 
 ## [13주차 0527](https://github.com/GUBBIB/2025WebPrograming/tree/main/13Week0527)
 
