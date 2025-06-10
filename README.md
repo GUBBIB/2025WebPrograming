@@ -52,6 +52,10 @@
 
 ## [12주차 0523](https://github.com/GUBBIB/2025WebPrograming/tree/main/12Week0523)
 
+## [13주차 0527](https://github.com/GUBBIB/2025WebPrograming/tree/main/13Week0527)
+
+## [14주차 0610](https://github.com/GUBBIB/2025WebPrograming/tree/main/14Week0610)
+
 
 <!--
 -- 팀 과제 --
