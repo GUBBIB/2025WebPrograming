@@ -44,7 +44,7 @@
 - 중간 시험
 
 ## [9주차 0429](https://github.com/GUBBIB/2025WebPrograming/tree/main/9Week0429)
-- 
+- [1. 이벤트 핸들링](https://gubbib.github.io/2025WebPrograming/9Week0429/my-app)
 
 ## [10주차 0506](https://github.com/GUBBIB/2025WebPrograming/tree/main/10Week0506)
 

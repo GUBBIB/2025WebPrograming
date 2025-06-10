@@ -19,7 +19,7 @@ if [ -z "$(git config user.name)" ] || [ -z "$(git config user.email)" ]; then
 fi
 
 git add .
-git commit -m "Upload"
+git commit -m "README.md 수정"
 git push origin main
 
 cd $CURRENT_DIR
