@@ -54,11 +54,13 @@
 - [1. List와 key](https://gubbib.github.io/2025WebPrograming/11Week0513/my-app/)
 
 ## [12주차 0520](https://github.com/GUBBIB/2025WebPrograming/tree/main/12Week0520)
-- [1. ](https://gubbib.github.io/2025WebPrograming/12Week0520/test/)
+- [1. ToDoList 작성](https://gubbib.github.io/2025WebPrograming/12Week0520/test/)
 
 ## [13주차 0527](https://github.com/GUBBIB/2025WebPrograming/tree/main/13Week0527)
+- 팀 발표
 
 ## [14주차 0610](https://github.com/GUBBIB/2025WebPrograming/tree/main/14Week0610)
+- 팀 발표
 
 
 <!--
